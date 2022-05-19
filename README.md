@@ -1,3 +1,3 @@
-# helicene / helicene.com
+# helicene-inc / helicene-inc.github.io
 
-repository for marketing site
+repository for marketing site, naming convention for github pages
